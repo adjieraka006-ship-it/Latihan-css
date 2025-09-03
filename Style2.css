@@ -1,0 +1,117 @@
+.profile {
+  background-color: #ffffff;
+  display: grid;
+  justify-items: center;
+  align-items: start;
+  width: 100vw;
+}
+
+.profile .div {
+  background-color: #ffffff;
+  width: 1000px;
+  height: 700px;
+  position: relative;
+}
+
+.profile .overlap-group {
+  height: 372px;
+  top: 150px;
+  background-color: #d9d9d982;
+  position: absolute;
+  width: 1000px;
+  left: 0;
+}
+
+.profile .ajie-raka-foto {
+  position: absolute;
+  width: 274px;
+  height: 271px;
+  top: 39px;
+  left: 60px;
+  aspect-ratio: 1.01;
+  object-fit: cover;
+}
+
+.profile .text-wrapper {
+  position: absolute;
+  top: 113px;
+  left: 363px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.profile .saya-seorang {
+  position: absolute;
+  top: 144px;
+  left: 361px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.profile .overlap {
+  height: 150px;
+  top: 0;
+  background-color: #4cb04e;
+  position: absolute;
+  width: 1000px;
+  left: 0;
+}
+
+.profile .text-wrapper-2 {
+  position: absolute;
+  top: 57px;
+  left: 60px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.profile .text-wrapper-3 {
+  position: absolute;
+  top: 57px;
+  left: 745px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+
+}
+
+.profile .text-wrapper-4 {
+  position: absolute;
+  top: 57px;
+  left: 824px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.profile .nama-ajie-raka-nik {
+  position: absolute;
+  top: 553px;
+  left: 60px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
