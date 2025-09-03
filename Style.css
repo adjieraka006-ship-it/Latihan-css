@@ -9,9 +9,12 @@
       font-size: 20px;
       font-variant: small-caps;
       font-style: italic;
+      background-image: none;
              }
         h1{color: blueviolet;}
         p{
           line-height: 20px;
           color: rgb(14, 14, 13);
+        }
+        body {background-color: #add8e6;}
     </style>
